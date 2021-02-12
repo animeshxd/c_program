@@ -1,4 +1,4 @@
-//Write a program to calculate area of triangle.
+//4. Write a program to calculate area of triangle.
 //Area of triangle 
 // s = (a + b + c)/2
 // Area = sqrt(s * (s - a) * (s - b) * (s - c))

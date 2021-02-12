@@ -1,4 +1,4 @@
-//Write a program to convert temperature. 1) F to C. 2) C to F.
+//3. Write a program to convert temperature. 1) F to C. 2) C to F.
 // c/5 = (f-32)/9
 // f = (9 * c) / 5 + 35   <-- C to F.
 // c = (5 * f - 160) / 9   <-- F to C.

@@ -1,4 +1,4 @@
-/* Write a program to take basic salary of an employee. 
+/* 8. Write a program to take basic salary of an employee. 
 DA is 15% of basic salary, 
 HRA is 13% of Basic Salary,
 TA is 10% of basic salary. 

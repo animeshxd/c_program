@@ -1,4 +1,4 @@
-// Write a program to calculate the distance between 2 points in a 2D coordinate system.
+//10. Write a program to calculate the distance between 2 points in a 2D coordinate system.
 //distance = sqrt((x2 - x1) * (x2 - x1) + (y2 - y1) * (y2 - y1));
 #include<stdio.h>
 #include<math.h>

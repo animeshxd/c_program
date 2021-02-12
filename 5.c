@@ -1,4 +1,4 @@
-//Write a program to swap 2 numbers - 1) With 3rd Variable. 2) Without 3rd variable.
+//5. Write a program to swap 2 numbers - 1) With 3rd Variable. 2) Without 3rd variable.
 #include<stdio.h>
 
 main()

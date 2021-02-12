@@ -1,4 +1,4 @@
-// Write a program to calculate the roots of a quadratic equation.
+//9. Write a program to calculate the roots of a quadratic equation.
 //ax² + bx + c
 // x = (-b ± sqrt(b²-4ac))/2a
 

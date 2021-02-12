@@ -1,4 +1,4 @@
-//program to take 2 number and calculate the sum and multiplication of those 2 numbers
+//2. program to take 2 number and calculate the sum and multiplication of those 2 numbers
 
 #include<stdio.h>
 main()

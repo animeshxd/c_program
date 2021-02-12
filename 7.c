@@ -1,4 +1,4 @@
-//Write a program to calculate the maximum among 3 numbers using conditional operator.
+//7. Write a program to calculate the maximum among 3 numbers using conditional operator.
 #include<stdio.h>
 
 main()

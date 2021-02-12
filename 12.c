@@ -1,4 +1,4 @@
-//Write a program to take a number and check if the number is triple digit same number or not.
+//12. Write a program to take a number and check if the number is triple digit same number or not.
 #include<stdio.h>
 
 main()

@@ -1,4 +1,4 @@
-//Write a program to take a number from the user and check if the number is even or odd.
+//14. Write a program to take a number from the user and check if the number is even or odd.
 #include<stdio.h>
 
 main()

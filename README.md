@@ -1,6 +1,6 @@
 # C Program
 
-1. Write a program to display your name and college name to the output terminal
+1. Write a program to display your name and college name to the output terminal.
 2. Write a program to take 2 number and calculate the sum and multiplication of those 2 numbers
 3. Write a program to convert temperature. 1) F to C. 2) C to F.
 4. Write a program to calculate area of triangle.

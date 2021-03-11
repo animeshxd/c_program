@@ -8,8 +8,8 @@
 
 main()
 {
-    int a,b,c;
-    float s,ar;
+    int a,b,c,s;
+    float ar;
 
     printf("Enter three side of Triangle ");
     scanf("%d %d %d", &a, &b, &c);

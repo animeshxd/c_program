@@ -7,7 +7,7 @@ main()
     printf("Enter two numbers ");
     scanf("%d %d",&a,&b);
     if (a == b)
-        printf("Two Numbers are equal");
+        printf("Two numbers are equal");
     else if (a > b)
         printf("%d is max",a);
     else

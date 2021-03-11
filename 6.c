@@ -9,9 +9,9 @@ main()
     if (a == b)
         printf("Two numbers are equal");
     else if (a > b)
-        printf("%d is max",a);
+        printf("%d is maximum",a);
     else
-        printf("%d is max", b);
+        printf("%d is maximum", b);
  
     
 }

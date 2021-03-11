@@ -1,6 +1,6 @@
 //9. Write a program to calculate the roots of a quadratic equation.
 //ax² + bx + c
-// x = (-b ± sqrt(b²-4ac))/2a
+// x = (-b ± √(b²-4ac))/2a
 
 #include<stdio.h>
 #include<math.h>

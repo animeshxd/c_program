@@ -9,7 +9,7 @@ main()
 {
     int a, b, c,d;
     float x1 , x2;
-    printf("Enter the Numbers ");
+    printf("Enter the roots of equation ");
     scanf("%d %d %d",&a,&b,&c);
     d = b * b - 4 * a * c;
     if (d == 0)
